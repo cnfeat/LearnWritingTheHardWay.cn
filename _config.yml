@@ -1,5 +1,5 @@
 ---
-title: Hospitalrun.Github.Io
+title: 笨方法学写作
 timezone: UTC
 collections:
   posts:
@@ -10,7 +10,7 @@ collections:
     output: true
 name: HospitalRun
 description: Open source software for developing world hospitals.
-url: http://hospitalrun.io
+url: http://www.learnwritingthehardway.cn/
 permalink: "/blog/:year/:month/:title"
 exclude:
 - script
