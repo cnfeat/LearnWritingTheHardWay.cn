@@ -42,9 +42,9 @@
 
     &:hover { text-decoration: none; }
 
-    &.secondary { background: $green; }
+    &.primary { background: $green; }
 
-    &.primary {
+    &.secondary {
       background: transparent;
       border: 1px solid $green;
       margin-left: 30px;
