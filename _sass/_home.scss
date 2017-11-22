@@ -42,10 +42,10 @@
 
     &:hover { text-decoration: none; }
 
-    &.primary { background: $green; }
+    &.primary { background: ransparent; }
 
     &.secondary {
-      background: transparent;
+      background: $greent;
       border: 1px solid $green;
       margin-left: 30px;
 
