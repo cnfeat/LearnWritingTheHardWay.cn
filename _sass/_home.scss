@@ -42,11 +42,13 @@
 
     &:hover { text-decoration: none; }
 
-    &.primary { background: transparent; }
+    &.primary { 
+      background: transparent; 
+      border: 1px solid $green;
+    }
 
     &.secondary {
       background: $green;
-      border: 1px solid $green;
       margin-left: 30px;
 
       @include media_max($bp_mobile) { margin-left: auto; }
