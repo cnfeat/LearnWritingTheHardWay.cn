@@ -8,7 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-name: HospitalRun
+name: 笨方法学写作
 description: Open source software for developing world hospitals.
 url: http://www.learnwritingthehardway.cn/
 permalink: "/blog/:year/:month/:title"
