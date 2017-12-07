@@ -15,11 +15,14 @@ layout: post
 
 ![](http://openmindclub.qiniudn.com/omt/KnowledgePlanet02.jpg?imageMogr2/thumbnail/!80p)
 
-《笨方法学写作》的目的是让你掌握卡片写作的技能。卡片写作是我从[写作教练阳志平](http://www.cnfeat.com/blog/2017/10/18/MyWritingCoach/)学习到的技能，我自 2016 年 3 月开始使用卡片写作，经过 500+ 天精进打磨，写出过 1000 + 张卡片，建立读立写生博客和卡片创作通讯，至今写作字数 60W+。
+《笨方法学写作》的目的是让你掌握卡片写作的技能。我自 2016 年 3 月开始使用卡片写作，经过 500+ 天精进打磨，写出过 1000 + 张卡片，建立读立写生博客和卡片创作通讯，至今写作字数 60W+。
 
 《笨方法学写作》课程叫笨方法，但课程使用的教学原理及练习题目并不笨，笨方法是指书中的练习方式，因为此书以习题为中心，你不能靠速成的阅读来学习写作，而能通过长时间的写作练习来学会写作。**写作，是写作者的必经之路。**
 
 **《笨方法学写作》没有先学习再实践的概念，学就是写，学就是练，学就是教，学习就是实践，写作就是实践，练习就是实践，所有的事情都是同一件事情。**
+
+
+![](http://openmindclub.qiniudn.com/omt/WritingClassRoute.jpg)
 
 **如何笨方法学写作？**
 
@@ -29,7 +32,7 @@ layout: post
 
 报名：http://t.xiaomiquan.com/ufe23vv
 
-![](http://openmindclub.qiniudn.com/omt/KnowledgePlanet.jpg?imageMogr2/thumbnail/!30p)
+![](http://openmindclub.qiniudn.com/omt/KnowledgePlanet.jpg?imageMogr2/thumbnail/!35p)
 
 
 ### ChangeLog
