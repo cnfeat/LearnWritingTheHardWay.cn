@@ -22,7 +22,7 @@ layout: post
 **《笨方法学写作》没有先学习再实践的概念，学就是写，学就是练，学就是教，学习就是实践，写作就是实践，练习就是实践，所有的事情都是同一件事情。**
 
 
-![](http://openmindclub.qiniudn.com/omt/WritingClassRoute01.jpg)
+
 
 **如何笨方法学写作？**
 
