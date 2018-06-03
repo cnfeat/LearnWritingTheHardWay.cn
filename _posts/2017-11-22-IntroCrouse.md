@@ -21,6 +21,9 @@ layout: post
 ![](https://wx2.sinaimg.cn/mw690/617ccc0cgy1frnq4k29gvj20p018gtcs.jpg)
 
 
+![](https://wx4.sinaimg.cn/mw690/617ccc0cgy1fry3rzjmsej20sg0lcjwh.jpg)
+
+
 ## 卡片写作
 
 卡片写作将卡片的写作训练作为独立章节，扩展了卡片写作的习题范围，卡片写作分为三个部分：1）卡片认知，理解卡片的科学原理；2）卡片实践，立即上手实践卡片写作；3）卡片系统，开发更多卡片的创作功能，搭建专属卡片系统。
