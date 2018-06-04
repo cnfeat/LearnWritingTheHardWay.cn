@@ -1,6 +1,6 @@
 ---
 title: 课程简介
-date: 2018-06-03
+date: 2017-11-22
 categories:
 - Blog　
 subtitle: 笨方法学写作
