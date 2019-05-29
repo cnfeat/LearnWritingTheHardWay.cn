@@ -16,17 +16,17 @@ layout: post
 《笨方法学写作》自 2017 年 10 月发布，采取互联网开发产品模式更新，陆续更新 8 个月，课程已全面升级至 2.0，大纲如下：
 
 
-![课程](https://wx2.sinaimg.cn/mw690/617ccc0cgy1frnq4k29gvj20p018gtcs.jpg){:width="600px"}
+![插入课程大纲](http://upload-images.jianshu.io/upload_images/32598-4331a47c6c1ec0b5?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240){:width="600px"}
 
 
-![课程](https://wx4.sinaimg.cn/mw690/617ccc0cgy1fry3rzjmsej20sg0lcjwh.jpg){:width="600px"}
+
 
 ## 卡片写作
 
 卡片写作将卡片的写作训练作为独立章节，扩展了卡片写作的习题范围，卡片写作分为三个部分：1）卡片认知，理解卡片的科学原理；2）卡片实践，立即上手实践卡片写作；3）卡片系统，开发更多卡片的创作功能，搭建专属卡片系统。
 
 
-![课程](https://wx2.sinaimg.cn/mw690/617ccc0cgy1frx7p14xoaj20v41207ds.jpg){:width="600px"}
+![课程模块图](http://upload-images.jianshu.io/upload_images/32598-24102647e4b1cdc7?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240){:width="600px"}
 
 
 ## 快速写作
