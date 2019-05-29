@@ -1,6 +1,6 @@
 ---
 title: 《笨方法学写作》课程简介
-date: 2019-05-29
+date: 2017-11-22
 categories:
 - Blog　
 subtitle: 笨方法学写作
