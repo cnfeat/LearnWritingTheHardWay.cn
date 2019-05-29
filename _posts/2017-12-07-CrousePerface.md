@@ -1,5 +1,5 @@
 ---
-title: 《笨方法学写作》序——书写的力量
+title: 《笨方法学写作》序：书写的力量
 date: 2017-12-07
 categories:
 - Blog　
