@@ -11,7 +11,7 @@ collections:
 name: 笨方法学写作
 description: 用笨办法的人，往往有奇迹。
 url: http://www.learnwritingthehardway.cn/
-permalink: "/blog/:year/:month/:day/:title"
+permalink: "/blog/:year/:month/:title"
 exclude:
 - script
 - vendor
